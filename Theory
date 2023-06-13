@@ -1,0 +1,84 @@
+Date:- 13-06-2023
+** Data and samping distribution ** :- source - Harvard business school online website
+Population :- the larger data set or idea of a data set.
+Sample :- a subset from a larger data set.
+N(n) the size of the population(sample)
+Random sampling :- drawing elements into a sample at random.
+Bies :- Systematic Error
+Sample Bies :- a sample that misrepresent the population.
+Sampling distribution : sampling distribution of a statistics refer to the distribution of some sample statistic over may sample drawn from the same population.
+# Key terms for samping distribution are :-
+1) sample Statistic : - matric calculated for a sample of data drawn from a larger population.
+2) Data distribution :- the frequency distribution of individual values in a data set.
+3) Sampling distribution:- the frequency distribution of a sample statistic over many sample or resample.
+4) Central limit theorem :- The tendency of the sampling distribution to take on a normal shape as sample rise.
+5) Standard error :- the variability (standard derivation) of a sample statistic over many sample is standard err
+
+** Confidence Interval **
+frequency table, histogram, box plot and standard errors are all ways to understand the potential error in a sample estimate.
+Confidence interval always come with a coverage level expressed as a (high) percentage say 90% to 95%.
+
+** Normal distribution **
+Normal distribution is also know as Guassian distribution, is a probability distribution that is symmentric about  the mean ,showing that data near the mean more frequent in occurrence that data far from the mean.in graphical form. the normal distribution appears as a "bell curve".
+
+** Error **
+the difference between a data point and a predicted or average value.
+
+** Sandardize **
+subtract the mean and divide by the standard deviation.
+
+** z-score **
+the result of standardizing an individuala data point.
+
+** Standard normal **
+a normal distribution with mean=0 and standard deviation=1.
+
+** qq-plot **
+a plot to visualize how close a sample distribution is to a specified distribution.
+
+** Standard normal **
+a standard normal distribution is one in which the suits on the x-axis are expressed in terms of standard deviation away from the mean.
+
+** Long-tailed distribution **
+
+Key terms for long tail distribution
+
+*Tail :- the long narrow portion of a frequency distribution where reltively extreme values occur at low frequency.
+
+*Skew :- where one tail of a distribution is longer than the other tail.
+
+** Key ideas :- the most data is not normally distributed.
+Assuming a normal distribution can lead to underestimation of extreme events.
+
+** T-distribution **
+The t-distribution is also known as student's t-distribution.
+The T-distribution is a way of distribution a set of odservations where the most observations fall close to the mean, and the rest of the observarions make up the tails on either side. it is type of normal distribution used for smaller sample sizes, where the variance in the data is unknown.
+
+** Degree of freedom **
+A parameter that allows the t-distribution to adjust to different sample sizes, statistics and numbers of groups.
+
+** Binomial Distribution **
+The distribution with outcome of true/false or yes/no or 0/1 , they are often used for decision process.
+like : buy/don't buy, click/don't click, Survive/die.
+
+Key terms :-
+*Trial :- an event with a discrete outcome (flipping of coin)
+*Success :- the outcome of interest for a trial 
+Synonym :- 1 success, as opposed as 0
+
+*Binomial :- having two outcomes yes/no or true/false
+*Binomial Trial :- The trial with two outcome 
+Synonyms:- Bernoulli trial
+*Binomail Distribution :- distribution of number of success in x Trials.
+Synonyms:- Bernoulli distribution.
+
+What is CDF and PMF:- Homework
+
+** Chi-square distribution:- 
+The Chi-Square distribution is typically concerned with counts of subjects or items falling into categories.
+The Chi-Square statistic measures the extent pf departure from what you would expect in a null model.
+
+** F-Distribution **
+it is used with experiments and linear models involving measure data.
+The F-Statistic compare variations due to factors of interest to overall variations.
+
